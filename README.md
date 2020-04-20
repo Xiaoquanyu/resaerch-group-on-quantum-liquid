@@ -2,14 +2,21 @@
 
 Our resaerch of interests are 
 
+# Group members
 
 # Publications
 
-11) G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
+## Quantum vortices in two-dimensinal superfluids 
+
+G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
 J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid, Science 364 (6447), (2019). [article](https://science.sciencemag.org/content/364/6447/1264)
-10) M. M. Cawte, X. Yu, B. P. Anderson, A. S. Bradley,Snell's Law for a vortex dipole in a
+
+M. M. Cawte, X. Yu, B. P. Anderson, A. S. Bradley,Snell's Law for a vortex dipole in a
 Bose-Einstein condensate, SciPost Phys. 6, 032 (2019). [article](https://www.scipost.org/SciPostPhys.6.3.032/pdf)
-9) X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
+
+
+## Population dynamics 
+X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
 extinction driven by weak demographic fuctuations, Bull Math Biol (2018).[article](https://link.springer.com/article/10.1007/s11538-018-0483-6)
 
 
