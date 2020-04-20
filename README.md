@@ -1,8 +1,8 @@
-## Welcome to Xiaoquan's research group !
+# Welcome to Xiaoquan's research group !
 
 Our resaerch of interests are 
 
-# Group members
+## Group members
 
 # Publications
 
