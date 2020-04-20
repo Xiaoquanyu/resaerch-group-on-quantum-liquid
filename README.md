@@ -1,12 +1,15 @@
 # Welcome to Xiaoquan's research group !
 
+## Research interests
 Our resaerch of interests are 
 
 ## Group members
 
+## Oppotunities 
+T
 # Publications
 
-## Quantum vortices in two-dimensinal superfluids 
+## Quantum vortices in superfluids 
 
 G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
 J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid,  [Science](https://science.sciencemag.org/content/364/6447/1264) 364 (6447), (2019). 
@@ -21,7 +24,10 @@ M. T. Reeves, T. P. Billam, X. Yu, and A. S. Bradley, Enstrophy Cascade in Decay
 Two-Dimensional Quantum Turbulence, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.184502) 119, 184502 (2017).
 
 X. Yu, T. P. Billam, J. Nian, M. T. Reeves, and A. S. Bradley, Theory of the vortex-clustering
-transition in a confined two-dimensional quantum fluid, [Phys. Rev. A ](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.023602) 94, 023602 (2016).
+transition in a confined two-dimensional quantum fluid, [Phys. Rev. A ](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.023602), 94, 023602 (2016).
+
+A. M. Mateo, X. Yu, and J. Nian, Vortex lines attached to dark solitons in Bose-Einstein
+condensates and boson-vortex duality in 3+1 dimensions, [Phys. Rev. A ](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.063623), 94, 063623 (2016).
 
 ## Quantum disordered systems 
 
