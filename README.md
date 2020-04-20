@@ -38,7 +38,7 @@ X. Yu and M. Mueller, Mean field theory of superglasses, [Phys. Rev. B](https://
 
 ## Population dynamics 
 X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
-extinction driven by weak demographic fuctuations, [Bull Math Biol](https://link.springer.com/article/10.1007/s11538-018-0483-6)(2018).
+extinction driven by weak demographic fuctuations, [Bull Math Biol](https://link.springer.com/article/10.1007/s11538-018-0483-6) (2018).
 
 
 You can use the [editor on GitHub](https://github.com/Xiaoquanyu/quantum-vortex/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
