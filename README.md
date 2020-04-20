@@ -29,12 +29,12 @@ J. D. Bodyfelt, D. Leykam, C. Danieli, X. Yu, and S. Flach, Flat Bands under Cor
 Perturbations, Phys. Rev. Lett. 113, 236403 (2014).[article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.236403)
 
 X. Yu and S. Flach, Enhancement of chaotic subdiffusion in disordered ladders with synthetic
-gauge fields, Phys. Rev. E 90, 032910 (2014).
+gauge fields, Phys. Rev. E 90, 032910 (2014).[article](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032910)
 
 X. Yu and M. Mueller, Localization of disordered bosons and magnets in random fields, Ann.
-Phys. 337, 55 (2013).
+Phys. 337, 55 (2013).[article](https://www.sciencedirect.com/science/article/abs/pii/S0003491613001462)
 
-X. Yu and M. Mueller, Mean field theory of superglasses, Phys. Rev. B 85, 104205 (2012).
+X. Yu and M. Mueller, Mean field theory of superglasses, Phys. Rev. B 85, 104205 (2012).[article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.104205)
 
 ## Population dynamics 
 X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
