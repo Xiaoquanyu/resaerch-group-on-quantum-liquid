@@ -11,39 +11,39 @@ T
 
 ## Quantum vortices in superfluids 
 
-G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
+6) G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
 J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid,  [Science](https://science.sciencemag.org/content/364/6447/1264) 364 (6447), (2019). 
 
-M. M. Cawte, X. Yu, B. P. Anderson, A. S. Bradley,Snell's Law for a vortex dipole in a
+5) M. M. Cawte, X. Yu, B. P. Anderson, A. S. Bradley,Snell's Law for a vortex dipole in a
 Bose-Einstein condensate, [SciPost Phys.](https://www.scipost.org/SciPostPhys.6.3.032/pdf) 6, 032 (2019). 
 
-X. Yu and A. S. Bradley, Emergent Non-Eulerian Hydrodynamics of Quantum Vortices in
+4) X. Yu and A. S. Bradley, Emergent Non-Eulerian Hydrodynamics of Quantum Vortices in
 Two Dimensions, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.185301) 119, 185301 (2017). 
 
-M. T. Reeves, T. P. Billam, X. Yu, and A. S. Bradley, Enstrophy Cascade in Decaying
+3) M. T. Reeves, T. P. Billam, X. Yu, and A. S. Bradley, Enstrophy Cascade in Decaying
 Two-Dimensional Quantum Turbulence, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.184502) 119, 184502 (2017).
 
-X. Yu, T. P. Billam, J. Nian, M. T. Reeves, and A. S. Bradley, Theory of the vortex-clustering
+2) X. Yu, T. P. Billam, J. Nian, M. T. Reeves, and A. S. Bradley, Theory of the vortex-clustering
 transition in a confined two-dimensional quantum fluid, [Phys. Rev. A ](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.023602), 94, 023602 (2016).
 
-A. M. Mateo, X. Yu, and J. Nian, Vortex lines attached to dark solitons in Bose-Einstein
+1) A. M. Mateo, X. Yu, and J. Nian, Vortex lines attached to dark solitons in Bose-Einstein
 condensates and boson-vortex duality in 3+1 dimensions, [Phys. Rev. A ](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.063623), 94, 063623 (2016).
 
 ## Quantum disordered systems 
 
-J. D. Bodyfelt, D. Leykam, C. Danieli, X. Yu, and S. Flach, Flat Bands under Correlated
+4) J. D. Bodyfelt, D. Leykam, C. Danieli, X. Yu, and S. Flach, Flat Bands under Correlated
 Perturbations, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.236403) 113, 236403 (2014).
 
-X. Yu and S. Flach, Enhancement of chaotic subdiffusion in disordered ladders with synthetic
+3) X. Yu and S. Flach, Enhancement of chaotic subdiffusion in disordered ladders with synthetic
 gauge fields, [Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032910) 90, 032910 (2014).
 
-X. Yu and M. Mueller, Localization of disordered bosons and magnets in random fields, [Ann.
+2) X. Yu and M. Mueller, Localization of disordered bosons and magnets in random fields, [Ann.
 Phys.](https://www.sciencedirect.com/science/article/abs/pii/S0003491613001462) 337, 55 (2013).
 
-X. Yu and M. Mueller, Mean field theory of superglasses, [Phys. Rev. B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.104205)  85, 104205 (2012).
+1) X. Yu and M. Mueller, Mean field theory of superglasses, [Phys. Rev. B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.104205)  85, 104205 (2012).
 
 ## Population dynamics 
-X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
+1) X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
 extinction driven by weak demographic fuctuations, [Bull Math Biol](https://link.springer.com/article/10.1007/s11538-018-0483-6) (2018).
 
 
