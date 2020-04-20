@@ -14,6 +14,27 @@ J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid, Sci
 M. M. Cawte, X. Yu, B. P. Anderson, A. S. Bradley,Snell's Law for a vortex dipole in a
 Bose-Einstein condensate, SciPost Phys. 6, 032 (2019). [article](https://www.scipost.org/SciPostPhys.6.3.032/pdf)
 
+X. Yu and A. S. Bradley, Emergent Non-Eulerian Hydrodynamics of Quantum Vortices in
+Two Dimensions, Phys. Rev. Lett. 119, 185301 (2017). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.185301)
+
+M. T. Reeves, T. P. Billam, X. Yu, and A. S. Bradley, Enstrophy Cascade in Decaying
+Two-Dimensional Quantum Turbulence, Phys. Rev. Lett. 119, 184502 (2017).[article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.184502)
+
+X. Yu, T. P. Billam, J. Nian, M. T. Reeves, and A. S. Bradley, Theory of the vortex-clustering
+transition in a confined two-dimensional quantum fluid, Phys. Rev. A 94, 023602 (2016).[article](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.023602)
+
+## Quantum disordered systems 
+
+J. D. Bodyfelt, D. Leykam, C. Danieli, X. Yu, and S. Flach, Flat Bands under Correlated
+Perturbations, Phys. Rev. Lett. 113, 236403 (2014).[article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.236403)
+
+X. Yu and S. Flach, Enhancement of chaotic subdiffusion in disordered ladders with synthetic
+gauge fields, Phys. Rev. E 90, 032910 (2014).
+
+X. Yu and M. Mueller, Localization of disordered bosons and magnets in random fields, Ann.
+Phys. 337, 55 (2013).
+
+X. Yu and M. Mueller, Mean field theory of superglasses, Phys. Rev. B 85, 104205 (2012).
 
 ## Population dynamics 
 X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
