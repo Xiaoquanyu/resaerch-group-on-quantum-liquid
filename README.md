@@ -29,7 +29,7 @@ J. D. Bodyfelt, D. Leykam, C. Danieli, X. Yu, and S. Flach, Flat Bands under Cor
 Perturbations, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.236403) 113, 236403 (2014).
 
 X. Yu and S. Flach, Enhancement of chaotic subdiffusion in disordered ladders with synthetic
-gauge fields,[Phys. Rev. E 90](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032910) 032910 (2014).
+gauge fields, [Phys. Rev. E 90](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032910) 032910 (2014).
 
 X. Yu and M. Mueller, Localization of disordered bosons and magnets in random fields, [Ann.
 Phys.](https://www.sciencedirect.com/science/article/abs/pii/S0003491613001462) 337, 55 (2013).
