@@ -9,16 +9,16 @@ Our resaerch of interests are
 ## Quantum vortices in two-dimensinal superfluids 
 
 G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
-J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid, Science 364 (6447), (2019). [article](https://science.sciencemag.org/content/364/6447/1264)
+J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid,  [Science](https://science.sciencemag.org/content/364/6447/1264)364 (6447), (2019). 
 
 M. M. Cawte, X. Yu, B. P. Anderson, A. S. Bradley,Snell's Law for a vortex dipole in a
-Bose-Einstein condensate, SciPost Phys. 6, 032 (2019). [article](https://www.scipost.org/SciPostPhys.6.3.032/pdf)
+Bose-Einstein condensate, [SciPost Phys.](https://www.scipost.org/SciPostPhys.6.3.032/pdf) 6, 032 (2019). 
 
 X. Yu and A. S. Bradley, Emergent Non-Eulerian Hydrodynamics of Quantum Vortices in
-Two Dimensions, Phys. Rev. Lett. 119, 185301 (2017). [article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.185301)
+Two Dimensions, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.185301) 119, 185301 (2017). 
 
 M. T. Reeves, T. P. Billam, X. Yu, and A. S. Bradley, Enstrophy Cascade in Decaying
-Two-Dimensional Quantum Turbulence, Phys. Rev. Lett. 119, 184502 (2017).[article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.184502)
+Two-Dimensional Quantum Turbulence, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.184502) 119, 184502 (2017).
 
 X. Yu, T. P. Billam, J. Nian, M. T. Reeves, and A. S. Bradley, Theory of the vortex-clustering
 transition in a confined two-dimensional quantum fluid, Phys. Rev. A 94, 023602 (2016).[article](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.023602)
