@@ -33,7 +33,8 @@ gauge fields, [Phys. Rev. E 90](https://journals.aps.org/pre/abstract/10.1103/Ph
 
 X. Yu and M. Mueller, Localization of disordered bosons and magnets in random fields, [Ann.
 Phys.](https://www.sciencedirect.com/science/article/abs/pii/S0003491613001462) 337, 55 (2013).
-X. Yu and M. Mueller, Mean field theory of superglasses, Phys. Rev. B 85, 104205 (2012).[article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.104205)
+
+X. Yu and M. Mueller, Mean field theory of superglasses, [Phys. Rev. B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.104205)  85, 104205 (2012).
 
 ## Population dynamics 
 X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
