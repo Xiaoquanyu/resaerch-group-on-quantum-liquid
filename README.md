@@ -24,7 +24,7 @@ Two Dimensions, [Phys. Rev. Lett. 119, 185301 (2017). ](https://journals.aps.org
 Two-Dimensional Quantum Turbulence, [Phys. Rev. Lett. 119, 184502 (2017).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.184502) 
 
 2) X. Yu, T. P. Billam, J. Nian, M. T. Reeves, and A. S. Bradley, Theory of the vortex-clustering
-transition in a confined two-dimensional quantum fluid, [Phys. Rev. A , 94, 023602 (2016).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.023602), 
+transition in a confined two-dimensional quantum fluid, [Phys. Rev. A , 94, 023602 (2016).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.023602) 
 
 1) A. M. Mateo, X. Yu, and J. Nian, Vortex lines attached to dark solitons in Bose-Einstein
 condensates and boson-vortex duality in 3+1 dimensions, [Phys. Rev. A , 94, 063623 (2016).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.063623)
@@ -32,19 +32,19 @@ condensates and boson-vortex duality in 3+1 dimensions, [Phys. Rev. A , 94, 0636
 ## Quantum disordered systems 
 
 4) J. D. Bodyfelt, D. Leykam, C. Danieli, X. Yu, and S. Flach, Flat Bands under Correlated
-Perturbations, [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.236403) 113, 236403 (2014).
+Perturbations, [Phys. Rev. Lett. 113, 236403 (2014).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.236403) 
 
 3) X. Yu and S. Flach, Enhancement of chaotic subdiffusion in disordered ladders with synthetic
-gauge fields, [Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032910) 90, 032910 (2014).
+gauge fields, [Phys. Rev. E, 90, 032910 (2014).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032910) 
 
 2) X. Yu and M. Mueller, Localization of disordered bosons and magnets in random fields, [Ann.
-Phys.](https://www.sciencedirect.com/science/article/abs/pii/S0003491613001462) 337, 55 (2013).
+Phys. 337, 55 (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0003491613001462) 
 
-1) X. Yu and M. Mueller, Mean field theory of superglasses, [Phys. Rev. B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.104205)  85, 104205 (2012).
+1) X. Yu and M. Mueller, Mean field theory of superglasses, [Phys. Rev. B 85, 104205 (2012).](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.85.104205)  
 
 ## Population dynamics 
 1) X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
-extinction driven by weak demographic fuctuations, [Bull Math Biol](https://link.springer.com/article/10.1007/s11538-018-0483-6) (2018).
+extinction driven by weak demographic fuctuations, [Bull Math Biol (2018).](https://link.springer.com/article/10.1007/s11538-018-0483-6) 
 
 
 You can use the [editor on GitHub](https://github.com/Xiaoquanyu/quantum-vortex/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
