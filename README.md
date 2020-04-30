@@ -10,7 +10,7 @@ Xiaoquan Yu is an assistant professor at Graduate School of China Academy of Eng
 ## Group members
 
 ## Oppotunities 
-T
+Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me.  Welcome to join us ! 
 # Publications
 
 ## Quantum vortices in superfluids 
