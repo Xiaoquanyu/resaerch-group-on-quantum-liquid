@@ -1,7 +1,11 @@
 # Welcome to Xiaoquan's research group !
 
 ## Research interests
-Our resaerch of interests are 
+Our resaerch of interests are
+
+## Short CV
+
+Xiaoquan Yu is an assistant professor at Graduate School of China Academy of Engineering Physics (GSCAEP). He is also a honorary research fellow at the department of physics, University of Otago. Xiaoquan Yu obtained his PhD in theoretical physics in 2012 from SISSA. From 2013-2015 he conducted postdoctoral research at New Zealand institute for advanced study. He started to work at the physics department of the University of Otago as a research fellow in 2015, where his research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 he joined GSCAEP. 
 
 ## Group members
 
