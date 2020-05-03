@@ -1,7 +1,7 @@
 # Welcome to Xiaoquan's research group !
 
 ## Research interests
-The main research interests focus on out of equilibrium processes in quantum fluids driven by topological defects, including collective dynamics of quanutm vortices, quantum turbulence, and magnetic domain walls. 
+The main research interests focus on out of equilibrium processes in quantum fluids driven by topological defects, including collective dynamics of quanutm vortices, quantum turbulence, and dynamics of magnetic domain walls. Another area of research is statistical mechanics of quantum systems in the presence of disorder, examples are Anderson localization and quanutm spin glasses. 
 
 ## Short CV
 
