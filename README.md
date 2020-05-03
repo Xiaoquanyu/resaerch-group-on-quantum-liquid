@@ -1,7 +1,7 @@
 # Welcome to Xiaoquan's research group !
 
 ## Research interests
-Our resaerch of interests are
+The main research interests focus on out of equilibrium processes in quantum fluids driven by topological defects, including collective dynamics of quanutm vortices, quantum turbulence, and magnetic domain walls. 
 
 ## Short CV
 
@@ -55,9 +55,9 @@ You can use the [editor on GitHub](https://github.com/Xiaoquanyu/quantum-vortex/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+% ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+% Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
