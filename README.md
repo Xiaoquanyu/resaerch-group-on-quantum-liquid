@@ -5,7 +5,7 @@ The main research interests focus on out of equilibrium processes in quantum flu
 
 ## Short CV
 
-Xiaoquan Yu is an assistant professor at Graduate School of China Academy of Engineering Physics (GSCAEP). He is also a honorary research fellow at the department of physics, University of Otago. Xiaoquan Yu obtained his PhD in theoretical physics in 2012 from SISSA. From 2013-2015 he conducted postdoctoral research at New Zealand institute for advanced study. He started to work at the physics department of the University of Otago as a research fellow in 2015, where his research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 he joined GSCAEP. 
+Xiaoquan Yu is an assistant professor at Graduate School of China Academy of Engineering Physics (GSCAEP). He is also a [honorary research fellow at the department of physics, University of Otago](https://www.otago.ac.nz/physics/staff/index.html#honorary-staff). Xiaoquan Yu obtained his PhD in theoretical physics in 2012 from SISSA. From 2013-2015 he conducted postdoctoral research at New Zealand institute for advanced study. He started to work at the physics department of the University of Otago as a research fellow in 2015, where his research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 he joined GSCAEP. 
 
 ## Group members
 
@@ -19,7 +19,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid,  [Science  364 (6447), (2019).](https://science.sciencemag.org/content/364/6447/1264) 
 
 5) M. M. Cawte, X. Yu, B. P. Anderson, A. S. Bradley,Snell's Law for a vortex dipole in a
-Bose-Einstein condensate, [SciPost Phys. 6, 032 (2019). ](https://www.scipost.org/SciPostPhys.6.3.032/pdf) 
+Bose-Einstein condensate (Editor's Selection), [SciPost Phys. 6, 032 (2019). ](https://www.scipost.org/SciPostPhys.6.3.032/pdf) 
 
 4) X. Yu and A. S. Bradley, Emergent Non-Eulerian Hydrodynamics of Quantum Vortices in
 Two Dimensions, [Phys. Rev. Lett. 119, 185301 (2017). ](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.185301) 
