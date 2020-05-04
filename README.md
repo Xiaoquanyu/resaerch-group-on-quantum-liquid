@@ -51,5 +51,3 @@ Phys. 337, 55 (2013).](https://www.sciencedirect.com/science/article/abs/pii/S00
 extinction driven by weak demographic fuctuations, [Bull Math Biol (2018).](https://link.springer.com/article/10.1007/s11538-018-0483-6) 
 
 
-
-
