@@ -5,7 +5,7 @@ The main research interests focus on out of equilibrium processes in quantum flu
 
 ## Short CV
 
-I am an assistant professor at Graduate School of China Academy of Engineering Physics (GSCAEP). I am also a honorary research fellow at [the department of physics, University of Otago](https://www.otago.ac.nz/physics/staff/index.html#honorary-staff). I obtained my PhD in theoretical physics in 2012 from SISSA. From 2013-2015 I conducted postdoctoral research at New Zealand institute for advanced study. I started to work at the physics department of the University of Otago as a research fellow in 2015, where my research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 I joined [GSCAEP](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2|). 
+I am an assistant professor at Graduate School of China Academy of Engineering Physics (GSCAEP). I am also a honorary research fellow at [the department of physics, University of Otago](https://www.otago.ac.nz/physics/staff/index.html#honorary-staff). I obtained my PhD in theoretical physics in 2012 from SISSA. From 2013-2015 I conducted postdoctoral research at New Zealand institute for advanced study. I started to work at the physics department of the University of Otago as a research fellow in 2015, where my research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 I joined [GSCAEP](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2). 
 
 ## Group members
 
