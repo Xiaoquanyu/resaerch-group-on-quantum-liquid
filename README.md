@@ -10,7 +10,7 @@ I am an assistant professor at Graduate School of China Academy of Engineering P
 ## Group members
 
 ## Oppotunities 
-Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me.  Welcome to join us ! 
+Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn).  Welcome to join us ! 
 # Publications
 
 ## Quantum vortices in superfluids 
@@ -50,7 +50,6 @@ Phys. 337, 55 (2013).](https://www.sciencedirect.com/science/article/abs/pii/S00
 1) X. Yu, Xiangyi Li, Applications of WKB and Fokker-Planck methods in analyzing population
 extinction driven by weak demographic fuctuations, [Bull Math Biol (2018).](https://link.springer.com/article/10.1007/s11538-018-0483-6) 
 
-### Email address
-xqyu@gscaep.ac.cn
+
 
 
