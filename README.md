@@ -5,7 +5,7 @@ The main research interests focus on out of equilibrium processes in quantum flu
 
 ## Short CV
 
-Xiaoquan Yu is an assistant professor at [Graduate School of China Academy of Engineering Physics](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2|) (GSCAEP). He is also a honorary research fellow at [the department of physics, University of Otago](https://www.otago.ac.nz/physics/staff/index.html#honorary-staff). Xiaoquan Yu obtained his PhD in theoretical physics in 2012 from SISSA. From 2013-2015 he conducted postdoctoral research at New Zealand institute for advanced study. He started to work at the physics department of the University of Otago as a research fellow in 2015, where his research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 he joined GSCAEP. 
+Xiaoquan Yu is an assistant professor at [Graduate School of China Academy of Engineering Physics](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2) (GSCAEP). He is also a honorary research fellow at [the department of physics, University of Otago](https://www.otago.ac.nz/physics/staff/index.html#honorary-staff). Xiaoquan Yu obtained his PhD in theoretical physics in 2012 from SISSA. From 2013-2015 he conducted postdoctoral research at New Zealand institute for advanced study. He started to work at the physics department of the University of Otago as a research fellow in 2015, where his research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 he joined GSCAEP. 
 
 ## Group members
 
