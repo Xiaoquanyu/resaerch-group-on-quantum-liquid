@@ -3,6 +3,8 @@
 ## Research interests
 The main research interests focus on out of equilibrium processes in quantum fluids driven by topological defects, including collective dynamics of quanutm vortices, quantum turbulence, and dynamics of magnetic domain walls. Another area of research is statistical mechanics of quantum systems in the presence of disorder, examples are Anderson localization and quantum spin glasses. 
 
+Want to know more ?  Check out these papers !  [Turbulence](https://github.com/Xiaoquanyu/resaerch-group-on-quantum-liquid/blob/master/Lessons%20from%20Hydrodynamic%20Turbulence.pdf) 
+
 ## Short CV
 
 I am an assistant professor at Graduate School of China Academy of Engineering Physics (GSCAEP). I am also an honorary research fellow at [the department of physics, University of Otago](https://www.otago.ac.nz/physics/staff/index.html#honorary-staff). I obtained my PhD in theoretical physics in 2012 from [SISSA](https://www.statphys.sissa.it/wordpress/). From 2013-2015 I conducted postdoctoral research at New Zealand institute for advanced study. I started to work at the physics department of the University of Otago as a research fellow in 2015, where my research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 I joined [GSCAEP](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2). 
