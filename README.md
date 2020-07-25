@@ -11,8 +11,10 @@ I am an assistant professor at Graduate School of China Academy of Engineering P
 
 ## Group members
 Postdoc：  Lei Qiao (乔雷)
-PhD student：   Yanqi Xiong (熊彦淇)
-Master student：Jiawen Chen (陈嘉文)  Jiangnan BiGuo (毕郭江南) 
+
+PhD student：  Yanqi Xiong (熊彦淇)
+
+Master student：Jiawen Chen (陈嘉文)，  Jiangnan BiGuo (毕郭江南) 
 
 
 
