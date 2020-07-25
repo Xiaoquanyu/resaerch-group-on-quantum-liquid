@@ -10,11 +10,11 @@ Want to know more ?  Check out these papers !  [Turbulence](https://github.com/X
 I am an assistant professor at Graduate School of China Academy of Engineering Physics (GSCAEP). I am also an honorary research fellow at [the department of physics, University of Otago](https://www.otago.ac.nz/physics/staff/index.html#honorary-staff). I obtained my PhD in theoretical physics in 2012 from [SISSA](https://www.statphys.sissa.it/wordpress/). From 2013-2015 I conducted postdoctoral research at New Zealand institute for advanced study. I started to work at the physics department of the University of Otago as a research fellow in 2015, where my research focus on quanutm fluids, vortex dynamcis and turbulence. In 2019 I joined [GSCAEP](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2). 
 
 ## Group members
-Postdoc：  Lei Qiao (乔雷)
+Postdocs：  Lei Qiao (乔雷)
 
-PhD student：  Yanqi Xiong (熊彦淇)
+PhD students：  Yanqi Xiong (熊彦淇)
 
-Master student：Jiawen Chen (陈嘉文)，  Jiangnan BiGuo (毕郭江南) 
+Master's students：Jiawen Chen (陈嘉文)，  Jiangnan BiGuo (毕郭江南) 
 
 
 
