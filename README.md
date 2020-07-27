@@ -23,7 +23,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 # Publications
 
 ## Quantum vortices in superfluids 
-7) Oliver R. Stockdale, Matthew T. Reeves, Xiaoquan Yu, Guillaume Gauthier, Kwan Goddard-Lee, Warwick P. Bowen, Tyler W. Neely, and Matthew J. Davis, Universal dynamics in the expansion of vortex clusters in a dissipative two-dimensional superfluid,[Phys. Rev. Research 2, 033138,(2020).](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138)
+7) Oliver R. Stockdale, Matthew T. Reeves, Xiaoquan Yu, Guillaume Gauthier, Kwan Goddard-Lee, Warwick P. Bowen, Tyler W. Neely, and Matthew J. Davis, Universal dynamics in the expansion of vortex clusters in a dissipative two-dimensional superfluid, [Phys. Rev. Research 2, 033138,(2020).](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138)
 
 6) G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
 J. Davis,T. Neely, Giant vortex clusters in a two-dimensional quantum fluid,  [Science  364 (6447), (2019).](https://science.sciencemag.org/content/364/6447/1264) 
