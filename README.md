@@ -12,7 +12,7 @@ I am an assistant professor at Graduate School of China Academy of Engineering P
 ## Group members
 Postdocs：  Lei Qiao (乔雷)
 
-PhD students：  Yanqi Xiong (熊彦淇)
+PhD students：  Yanqi Xiong (熊彦淇)，  Yixiu Bai (白伊秀)
 
 Master's students：Jiawen Chen (陈嘉文)，  Jiangnan BiGuo (毕郭江南) 
 
@@ -44,6 +44,8 @@ transition in a confined two-dimensional quantum fluid, [Phys. Rev. A , 94, 0236
 condensates and boson-vortex duality in 3+1 dimensions, [Phys. Rev. A , 94, 063623 (2016).](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.063623)
 
 ## Quantum disordered systems 
+
+5) Yagmur Kati, Xiaoquan Yu, Sergej Flach, Density resolved wave packet spreading in disordered Gross-Pitaevskii lattices, [SciPostPhysCore.3.2.006 (2020).](https://scipost.org/SciPostPhysCore.3.2.006) 
 
 4) J. D. Bodyfelt, D. Leykam, C. Danieli, X. Yu, and S. Flach, Flat Bands under Correlated
 Perturbations, [Phys. Rev. Lett. 113, 236403 (2014).](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.236403) 
