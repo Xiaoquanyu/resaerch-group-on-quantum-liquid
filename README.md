@@ -23,9 +23,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 # Publications
 
 ## Preprints
-Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely, Emergence of off-axis equilibria in a quantum vortex gas ,[arxiv](https://arxiv.org/abs/2010.10049)
+2) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely, Emergence of off-axis equilibria in a quantum vortex gas ,[arxiv](https://arxiv.org/abs/2010.10049)
 
-X. Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [arxiv](https://arxiv.org/abs/2008.08175)
+1) X. Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [arxiv](https://arxiv.org/abs/2008.08175)
 
 ## Quantum vortices in superfluids 
 7) Oliver R. Stockdale, Matthew T. Reeves, Xiaoquan Yu, Guillaume Gauthier, Kwan Goddard-Lee, Warwick P. Bowen, Tyler W. Neely, and Matthew J. Davis, Universal dynamics in the expansion of vortex clusters in a dissipative two-dimensional superfluid, [Phys. Rev. Research 2, 033138,(2020).](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138)
