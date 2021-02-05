@@ -12,9 +12,9 @@ I am an assistant professor at Graduate School of China Academy of Engineering P
 ## Group members
 Postdocs：  Lei Qiao (乔雷)
 
-PhD students：  Yanqi Xiong (熊彦淇)，  Yixiu Bai (白伊秀)
+PhD students：  Yanqi Xiong (熊彦淇)，  Yixiu Bai (白伊秀)(co-supervised with Ashton Bradley),   Jiangnan BiGuo (毕郭江南) 
 
-Master's students：Jiawen Chen (陈嘉文)，  Jiangnan BiGuo (毕郭江南) 
+Master's students：Jiawen Chen (陈嘉文)
 
 
 
