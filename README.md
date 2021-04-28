@@ -11,13 +11,15 @@ I am an assistant professor at Graduate School of China Academy of Engineering P
 
 
 ## Group members
-Postdocs：  Lei Qiao (乔雷)
+
 
 PhD students：  Yanqi Xiong (熊彦淇)，  Yixiu Bai (白伊秀),   Jiangnan BiGuo (毕郭江南) 
 
 Master's students：Jiawen Chen (陈嘉文)
 
+## Alumni
 
+Lei Qiao (乔雷) -> Postdoc in National University of singapore 
 
 ## Oppotunities 
 Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn).  Welcome to join us ! 
