@@ -19,7 +19,7 @@ Master's students：Jiawen Chen (陈嘉文)
 
 ## Alumni
 
-Lei Qiao (乔雷) -> Postdoc in National University of singapore 
+Lei Qiao (乔雷) Postdoc (博强计划)  -> Postdoc in National University of singapore 
 
 ## Oppotunities 
 Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn).  Welcome to join us ! 
