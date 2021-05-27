@@ -22,7 +22,7 @@ Master's students：Jiawen Chen (陈嘉文)
 Lei Qiao (乔雷) Postdoc (博强计划)  -> Postdoc in National University of singapore 
 
 ## Oppotunities 
-Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn).  Welcome to join us ! 
+Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn or xiaoquan.yu@otago.ac.nz).  Welcome to join us ! 
 # Publications
 
 ## Preprints
