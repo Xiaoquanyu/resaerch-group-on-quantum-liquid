@@ -26,10 +26,12 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 # Publications
 
 ## Preprints
-1) Xiaoquan Yu, P. B. Blakie,  Anomalous dynamics of magnetic field-driven propagating magnetic domain
+1) Antonio Muñoz Mateo, Xiaoquan Yu, Two types of dark solitons in a spin-orbit-coupled Fermi gas, [arxiv](https://arxiv.org/abs/2110.03972)
+
+2) Xiaoquan Yu, P. B. Blakie,  Anomalous dynamics of magnetic field-driven propagating magnetic domain
   walls,[arxiv](https://arxiv.org/abs/2104.12967)
 
-2) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely, Emergence of off-axis equilibria in a quantum vortex gas ,[arxiv](https://arxiv.org/abs/2010.10049)
+3) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely, Emergence of off-axis equilibria in a quantum vortex gas ,[arxiv](https://arxiv.org/abs/2010.10049)
 
 
 ## Magnetic domain walls in spin-1 ferromagnetic superfluids
