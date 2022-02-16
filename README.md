@@ -33,15 +33,15 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 3) Xiaoquan Yu, P. B. Blakie,  Anomalous dynamics of magnetic field-driven propagating magnetic domain
   walls,[arxiv](https://arxiv.org/abs/2104.12967)
 
-4) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely, Emergence of off-axis equilibria in a quantum vortex gas ,[arxiv](https://arxiv.org/abs/2010.10049)
-
-
 ## Magnetic domain walls in spin-1 ferromagnetic superfluids
 
 1) X. Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
 
 
 ## Quantum vortices in superfluids 
+
+8) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely ,Turbulent Relaxation to Equilibrium in a Two-Dimensional Quantum Vortex Gas, [Phys. Rev. X 12, 011031,(2022.)](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.011031)
+
 7) Oliver R. Stockdale, Matthew T. Reeves, Xiaoquan Yu, Guillaume Gauthier, Kwan Goddard-Lee, Warwick P. Bowen, Tyler W. Neely, and Matthew J. Davis, Universal dynamics in the expansion of vortex clusters in a dissipative two-dimensional superfluid, [Phys. Rev. Research 2, 033138,(2020).](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138)
 
 6) G. Gauthier, M. Reeves, X. Yu, A. S. Bradley, M. Baker, Thomas A. Bell, H.R-Dunlop, M.
