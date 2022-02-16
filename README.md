@@ -40,7 +40,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Quantum vortices in superfluids 
 
-8) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely ,Turbulent Relaxation to Equilibrium in a Two-Dimensional Quantum Vortex Gas, [Phys. Rev. X 12, 011031,(2022.)](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.011031)
+8) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely ,Turbulent Relaxation to Equilibrium in a Two-Dimensional Quantum Vortex Gas, [Phys. Rev. X 12, 011031, (2022).](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.011031)
 
 7) Oliver R. Stockdale, Matthew T. Reeves, Xiaoquan Yu, Guillaume Gauthier, Kwan Goddard-Lee, Warwick P. Bowen, Tyler W. Neely, and Matthew J. Davis, Universal dynamics in the expansion of vortex clusters in a dissipative two-dimensional superfluid, [Phys. Rev. Research 2, 033138,(2020).](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033138)
 
