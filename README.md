@@ -28,10 +28,12 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 ## Preprints
 1) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids,[arxiv](https://arxiv.org/abs/2112.04012)
 
-2) Antonio Muñoz Mateo, Xiaoquan Yu, Two types of dark solitons in a spin-orbit-coupled Fermi gas, [arxiv](https://arxiv.org/abs/2110.03972)
-
 3) Xiaoquan Yu, P. B. Blakie,  Anomalous dynamics of magnetic field-driven propagating magnetic domain
   walls,[arxiv](https://arxiv.org/abs/2104.12967)
+
+##  Solitons in Fermi gases
+
+1) Antonio Muñoz Mateo, Xiaoquan Yu, Two types of dark solitons in a spin-orbit-coupled Fermi gas, [Phys. Rev. A (Letter) 105, L021301, (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.L021301)
 
 ## Magnetic domain walls in spin-1 ferromagnetic superfluids
 
