@@ -28,8 +28,6 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 ## Preprints
 1) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids,[arxiv](https://arxiv.org/abs/2112.04012)
 
-3) Xiaoquan Yu, P. B. Blakie,  Anomalous dynamics of magnetic field-driven propagating magnetic domain
-  walls,[arxiv](https://arxiv.org/abs/2104.12967)
 
 ##  Solitons in Fermi gases
 
@@ -37,7 +35,10 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Magnetic domain walls in spin-1 ferromagnetic superfluids
 
-1) X. Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
+1) Xiaoquan Yu, P. B. Blakie,  Propagating Ferrodark Solitons in a Superfluid: Exact Solutions and Anomalous Dynamics,[Phys. Rev. Lett. 128, 125301,(2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.125301)
+
+
+2) X. Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
 
 
 ## Quantum vortices in superfluids 
