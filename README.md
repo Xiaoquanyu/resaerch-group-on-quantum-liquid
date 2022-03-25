@@ -37,7 +37,6 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 1) Xiaoquan Yu and P. B. Blakie,  Propagating Ferrodark Solitons in a Superfluid: Exact Solutions and Anomalous Dynamics, [Phys. Rev. Lett. 128, 125301,(2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.125301)
 
-
 2) Xiaoquan Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
 
 
