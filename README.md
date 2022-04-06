@@ -26,7 +26,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 # Publications
 
 ## Preprints
-1) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids,[arxiv](https://arxiv.org/abs/2112.04012)
+1) Xiaoquan Yu and P. B. Blakie, Core structure of static ferrodark solitons in a spin-1 Bose-Einstein condensate, [arxiv]
+(https://arxiv.org/abs/2204.01878)
+2) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids,[arxiv](https://arxiv.org/abs/2112.04012)
 
 
 ##  Solitons in Fermi gases
