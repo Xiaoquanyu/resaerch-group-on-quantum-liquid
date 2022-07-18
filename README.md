@@ -36,11 +36,11 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Ferrodark solitons in spin-1 ferromagnetic superfluids
 
-1) Xiaoquan Yu and P. B. Blakie, Core structure of static ferrodark solitons in a spin-1 Bose-Einstein condensate, [Phys. Rev. Research 4, 033056, (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033056)
+3) Xiaoquan Yu and P. B. Blakie, Core structure of static ferrodark solitons in a spin-1 Bose-Einstein condensate, [Phys. Rev. Research 4, 033056, (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033056)
 
 2) Xiaoquan Yu and P. B. Blakie,  Propagating Ferrodark Solitons in a Superfluid: Exact Solutions and Anomalous Dynamics, [Phys. Rev. Lett. 128, 125301,(2022)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.125301)
 
-3) Xiaoquan Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
+1) Xiaoquan Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
 
 
 ## Quantum vortices in superfluids 
