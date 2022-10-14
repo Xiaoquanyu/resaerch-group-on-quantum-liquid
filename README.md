@@ -26,10 +26,11 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 # Publications
 
 ## Preprints
+1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv] (https://arxiv.org/abs/2210.06762)
 
-1) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [arxiv](https://arxiv.org/abs/2112.04012)
+2) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [arxiv](https://arxiv.org/abs/2112.04012)
 
-2) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid,  [arxiv](https://arxiv.org/abs/2207.14497)
+3) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid,  [arxiv](https://arxiv.org/abs/2207.14497)
 
 ##  Solitons in Fermi gases
 
