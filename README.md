@@ -26,11 +26,10 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 # Publications
 
 ## Preprints
+
 1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
 
-2) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [arxiv](https://arxiv.org/abs/2112.04012)
-
-3) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid,  [arxiv](https://arxiv.org/abs/2207.14497)
+2) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid,  [arxiv](https://arxiv.org/abs/2207.14497)
 
 ##  Solitons in Fermi gases
 
@@ -46,6 +45,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 
 ## Quantum vortices in superfluids 
+
+9) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [Phys. Rev. A 106, 043322](https://doi.org/10.1103/PhysRevA.106.043322)
+
 
 8) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely ,Turbulent Relaxation to Equilibrium in a Two-Dimensional Quantum Vortex Gas, [Phys. Rev. X 12, 011031, (2022).](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.011031)
 
