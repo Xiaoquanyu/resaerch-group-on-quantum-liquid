@@ -46,7 +46,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Quantum vortices in superfluids 
 
-9) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [Phys. Rev. A 106, 043322](https://doi.org/10.1103/PhysRevA.106.043322)
+9) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [Phys. Rev. A 106, 043322,(2022)](https://doi.org/10.1103/PhysRevA.106.043322)
 
 
 8) Matthew T Reeves, Kwan Goddard-Lee, Guillaume Gauthier, Oliver R Stockdale, Hayder Salman, Timothy Edmonds, Xiaoquan Yu, Ashton S Bradley, Mark Baker, Halina Rubinsztein-Dunlop, Matthew J Davis, Tyler W Neely ,Turbulent Relaxation to Equilibrium in a Two-Dimensional Quantum Vortex Gas, [Phys. Rev. X 12, 011031, (2022).](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.011031)
