@@ -29,7 +29,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
 
-2) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid,  [arxiv](https://arxiv.org/abs/2207.14497)
+
 
 ##  Solitons in Fermi gases
 
@@ -44,7 +44,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 1) Xiaoquan Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
 
 
-## Quantum vortices in superfluids 
+## Quantum vortices in superfluids  
+
+10) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in an easy-plane ferromagnetic superfluid,  [Phys. Rev. Research 5, L012045,(2023)](https://doi.org/10.1103/PhysRevResearch.5.L012045)
 
 9) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [Phys. Rev. A 106, 043322,(2022)](https://doi.org/10.1103/PhysRevA.106.043322)
 
