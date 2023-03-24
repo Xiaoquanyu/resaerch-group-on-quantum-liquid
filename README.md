@@ -46,7 +46,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Quantum vortices in superfluids  
 
-10) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in an easy-plane ferromagnetic superfluid,  [Phys. Rev. Research 5, L012045,(2023)](https://doi.org/10.1103/PhysRevResearch.5.L012045)
+10) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in an easy-plane ferromagnetic superfluid,  [Phys. Rev. Research (Letter) 5, L012045,(2023)](https://doi.org/10.1103/PhysRevResearch.5.L012045)
 
 9) Ashton S. Bradley, R. Kishor Kumar, Sukla Pal, Xiaoquan Yu, Spectral analysis for compressible quantum fluids, [Phys. Rev. A 106, 043322,(2022)](https://doi.org/10.1103/PhysRevA.106.043322)
 
