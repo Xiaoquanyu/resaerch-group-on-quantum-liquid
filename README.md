@@ -26,8 +26,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 # Publications
 
 ## Preprints
+1) Yanqi Xiong and Xiaoquan Yu,  Vortex Fluids on Closed Surfaces, [arxiv](https://arxiv.org/abs/2305.05373)
 
-1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
+2) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
 
 
 
