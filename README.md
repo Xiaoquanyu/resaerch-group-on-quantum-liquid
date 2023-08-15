@@ -13,13 +13,14 @@ I am an assistant professor at Graduate School of China Academy of Engineering P
 ## Group members
 
 
-PhD students：  Yanqi Xiong (熊彦淇)，  Yixiu Bai (白伊秀),   Jiangnan BiGuo (毕郭江南) 
+PhD students： Yixiu Bai (白伊秀), Jiangnan BiGuo (毕郭江南), Rui Han (韩锐)
 
 Master's students：Jiawen Chen (陈嘉文)
 
 ## Alumni
 
 Lei Qiao (乔雷) Postdoc (博强计划)  -> Postdoc in National University of singapore 
+Yanqi Xiong (熊彦淇) Phd (2020-2023)
 
 ## Oppotunities 
 Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn or xiaoquan.yu@otago.ac.nz).  Welcome to join us ! 
@@ -27,11 +28,10 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Preprints
 
-1) Yanqi Xiong, Jiawen Chen and Xiaoquan Yu, Axis-symmetric Onsager Clustered States of Point Vortices in a Bounded Domain，[arxiv](https://arxiv.org/abs/2306.01409)
 
-2) Yanqi Xiong and Xiaoquan Yu,  Vortex Fluids on Closed Surfaces, [arxiv](https://arxiv.org/abs/2305.05373)
+1) Yanqi Xiong and Xiaoquan Yu,  Vortex Fluids on Closed Surfaces, [arxiv](https://arxiv.org/abs/2305.05373)
 
-3) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
+2) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
 
 
 
@@ -49,6 +49,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 
 ## Quantum vortices in superfluids  
+
+11) Yanqi Xiong, Jiawen Chen and Xiaoquan Yu, Axis-symmetric Onsager Clustered States of Point Vortices in a Bounded Domain，[Commun. Theor. Phys. 75 095101,(2023)(https://arxiv.org/abs/2306.01409](https://iopscience.iop.org/article/10.1088/1572-9494/acdb57)
+
 
 10) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in an easy-plane ferromagnetic superfluid,  [Phys. Rev. Research (Letter) 5, L012045,(2023)](https://doi.org/10.1103/PhysRevResearch.5.L012045)
 
