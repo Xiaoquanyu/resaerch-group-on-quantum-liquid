@@ -20,6 +20,7 @@ Master's students：Jiawen Chen (陈嘉文)
 ## Alumni
 
 Lei Qiao (乔雷) Postdoc (博强计划)  -> Postdoc in National University of singapore 
+
 Yanqi Xiong (熊彦淇) Phd (2020-2023)
 
 ## Oppotunities 
@@ -50,7 +51,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Quantum vortices in superfluids  
 
-11) Yanqi Xiong, Jiawen Chen and Xiaoquan Yu, Axis-symmetric Onsager Clustered States of Point Vortices in a Bounded Domain，[Commun. Theor. Phys. 75 095101,(2023](https://iopscience.iop.org/article/10.1088/1572-9494/acdb57)
+11) Yanqi Xiong, Jiawen Chen and Xiaoquan Yu, Axis-symmetric Onsager Clustered States of Point Vortices in a Bounded Domain，[Commun. Theor. Phys. 75 095101,(2023)](https://iopscience.iop.org/article/10.1088/1572-9494/acdb57)
 
 
 10) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in an easy-plane ferromagnetic superfluid,  [Phys. Rev. Research (Letter) 5, L012045,(2023)](https://doi.org/10.1103/PhysRevResearch.5.L012045)
