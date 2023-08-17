@@ -19,9 +19,9 @@ Master's students：Jiawen Chen (陈嘉文)
 
 ## Alumni
 
-Lei Qiao (乔雷) Postdoc (博强计划)  -> Postdoc in National University of singapore 
+Lei Qiao (乔雷) Postdoc (博强计划 2020.7-2020.12)  -> Postdoc in National University of singapore 
 
-Yanqi Xiong (熊彦淇) Phd (2020-2023)
+Yanqi Xiong (熊彦淇) Phd (2020.7-2023.7)
 
 ## Oppotunities 
 Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn or xiaoquan.yu@otago.ac.nz).  Welcome to join us ! 
