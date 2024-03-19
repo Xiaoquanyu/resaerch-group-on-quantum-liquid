@@ -20,9 +20,9 @@ Master's students：Jiawen Chen (陈嘉文)
 
 ## Alumni
 
-Lei Qiao (乔雷) Postdoc (博强计划 2020.7-2020.12)  -> Postdoc in National University of singapore 
+Lei Qiao (乔雷) Postdoc (博强计划 2020.7-2020.12)  -> Postdoc at National University of singapore 
 
-Yanqi Xiong (熊彦淇) PhD (2020.7-2023.7)
+Yanqi Xiong (熊彦淇) PhD (2020.7-2023.7) -> Lecturer at Hunan institute of science and technology
 
 ## Oppotunities 
 Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn or xiaoquan.yu@otago.ac.nz).  Welcome to join us ! 
@@ -31,7 +31,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 ## Preprints
 
 1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
+   
 2) Jiawen Chen, Xiaoquan Yu, Onsager vortex clusters on a sphere, [arxiv](https://www.arxiv.org/abs/2403.09314)
+   
 3) Xiaoquan Yu, P. B. Blakie, Absence of breakdown of ferrodark solitons exhibiting snake instability, [arxiv](https://arxiv.org/abs/2402.05351)
 
 
