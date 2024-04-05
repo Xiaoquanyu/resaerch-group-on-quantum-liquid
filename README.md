@@ -36,6 +36,8 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
    
 3) Xiaoquan Yu, P. B. Blakie, Absence of breakdown of ferrodark solitons exhibiting snake instability, [arxiv](https://arxiv.org/abs/2402.05351)
 
+4) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid: effects of axial magnetization, [arxiv](https://arxiv.org/abs/2404.03178)
+
 
 
 ##  Solitons in Fermi gases
