@@ -18,6 +18,8 @@ PhD students： Yixiu Bai (白伊秀), Jiangnan BiGuo (毕郭江南), Rui Han (�
 
 Master's students：Jiawen Chen (陈嘉文)
 
+![Uploading AO4A4617.JPG…]()
+
 ## Alumni
 
 Lei Qiao (乔雷) Postdoc (博强计划 2020.7-2020.12)  -> Postdoc at National University of singapore 
