@@ -1,4 +1,4 @@
-![AO4A4617](https://github.com/Xiaoquanyu/resaerch-group-on-quantum-liquid/assets/36830274/98718eb3-00ec-479f-b8d0-efa37ebf3796)# Welcome to Xiaoquan's research group !
+## Welcome to Xiaoquan's research group !
 
 ## Research interests
 The main research interests focus on out of equilibrium processes in quantum fluids driven by topological defects, including collective dynamics of quanutm vortices, quantum turbulence, and dynamics of magnetic domain walls. Another area of research is statistical mechanics of quantum systems in the presence of disorder, examples are Anderson localization and quantum spin glasses. 
