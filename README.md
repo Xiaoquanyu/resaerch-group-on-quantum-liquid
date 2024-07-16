@@ -37,9 +37,6 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
    
 3) Xiaoquan Yu, P. B. Blakie, Absence of breakdown of ferrodark solitons exhibiting snake instability, [arxiv](https://arxiv.org/abs/2402.05351)
 
-4) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid: effects of axial magnetization, [arxiv](https://arxiv.org/abs/2404.03178)
-
-
 
 ##  Solitons in Fermi gases
 
@@ -54,7 +51,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 1) Xiaoquan Yu and P.B. Blakie,  Dark soliton-like magnetic domain walls in a two-dimensional ferromagnetic superfluid, [Phys. Rev. Research 3, 023043,(2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023043)
 
 
-## Quantum vortices in superfluids  
+## Quantum vortices in superfluids and BKT transitions 
+
+13) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid: effects of axial magnetization, [Phys. Rev. A 110, 013311,(2024)]( https://journals.aps.org/pra/pdf/10.1103/PhysRevA.110.013311)
 
 12) Yanqi Xiong and Xiaoquan Yu,  Hydrodynamics of quantum vortices on a closed surface, [Phys. Rev. Research 6, 013133,(2024)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013133)
 
