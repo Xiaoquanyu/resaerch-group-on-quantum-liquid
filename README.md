@@ -35,7 +35,6 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
    
 2) Jiawen Chen, Xiaoquan Yu, Onsager vortex clusters on a sphere, [arxiv](https://www.arxiv.org/abs/2403.09314)
    
-3) Xiaoquan Yu, P. B. Blakie, Absence of breakdown of ferrodark solitons exhibiting snake instability, [arxiv](https://arxiv.org/abs/2402.05351)
 
 
 ##  Solitons in Fermi gases
@@ -43,6 +42,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 1) Antonio Muñoz Mateo, Xiaoquan Yu, Two types of dark solitons in a spin-orbit-coupled Fermi gas, [Phys. Rev. A (Letter) 105, L021301, (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.L021301)
 
 ## Ferrodark solitons in spin-1 ferromagnetic superfluids
+
+
+4) Xiaoquan Yu, P. B. Blakie, Absence of breakdown of ferrodark solitons exhibiting snake instability, [Phys. Rev. A (Letter) 110, L061303](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.L061303)
 
 3) Xiaoquan Yu and P. B. Blakie, Core structure of static ferrodark solitons in a spin-1 Bose-Einstein condensate, [Phys. Rev. Research 4, 033056, (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033056)
 
