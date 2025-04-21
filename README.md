@@ -35,7 +35,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
    
 2) Jiawen Chen, Xiaoquan Yu, Onsager vortex clusters on a sphere, [arxiv](https://www.arxiv.org/abs/2403.09314)
    
-
+3) Jiangnan Biguo, Xiaoquan Yu, Motion of ferrodark solitons in harmonically trapped superfluids: spin corrections and emergent quartic potentials exhibiting symmetry breaking, [arxiv](https://arxiv.org/abs/2504.12980)
 
 ##  Solitons in Fermi gases
 
