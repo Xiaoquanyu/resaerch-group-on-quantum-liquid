@@ -12,7 +12,7 @@ I am an assistant professor at Graduate School of China Academy of Engineering P
 
 ## Group members
 
-Postdoc : Dr. Chen Ma (马晨)
+Postdoc : Dr. Chen Ma (马晨), Dr. Xiaolin Li (李晓霖)
 
 PhD students： Yixiu Bai (白伊秀), Jiangnan BiGuo (毕郭江南), Rui Han (韩锐)
 
