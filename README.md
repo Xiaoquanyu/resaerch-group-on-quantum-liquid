@@ -39,6 +39,9 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
    
 4) Yixiu Bai, Jiangnan Biguo, Xiaoquan Yu, Ferrodark soliton collisions: breather formation, pair reproduction and spin-mass separation, [arxiv](https://www.arxiv.org/abs/2509.04769)
 
+5) Xiaoquan Yu, Oscillating ring ferrodark solitons with breathing nematic core in a homogeneous spinor superfluid, [arxiv](https://arxiv.org/abs/2509.13874)
+
+   
 ##  Solitons in Fermi gases
 
 1) Antonio Muñoz Mateo, Xiaoquan Yu, Two types of dark solitons in a spin-orbit-coupled Fermi gas, [Phys. Rev. A (Letter) 105, L021301, (2022)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.L021301)
