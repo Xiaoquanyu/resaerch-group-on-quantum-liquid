@@ -58,7 +58,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Quantum vortices in superfluids and BKT transitions 
 
-15) Jiawen Chen, Xiaoquan Yu, Onsager vortex clusters on a sphere, [Commun. Theor. Phys. 78 015602,(2025)](https://iopscience.iop.org/article/10.1088/1572-9494/add998)
+14) Jiawen Chen, Xiaoquan Yu, Onsager vortex clusters on a sphere, [Commun. Theor. Phys. 78 015602,(2025)](https://iopscience.iop.org/article/10.1088/1572-9494/add998)
 
 13) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid: effects of axial magnetization, [Phys. Rev. A 110, 013311,(2024)]( https://journals.aps.org/pra/pdf/10.1103/PhysRevA.110.013311)
 
