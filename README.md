@@ -33,7 +33,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
    
-2) Jiawen Chen, Xiaoquan Yu, Onsager vortex clusters on a sphere, [arxiv](https://www.arxiv.org/abs/2403.09314)
+
    
 3) Jiangnan Biguo, Xiaoquan Yu, Motion of ferrodark solitons in harmonically trapped superfluids: spin corrections and emergent quartic potentials exhibiting symmetry breaking, [arxiv](https://arxiv.org/abs/2504.12980)
    
@@ -59,6 +59,8 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 
 ## Quantum vortices in superfluids and BKT transitions 
+
+15) Jiawen Chen, Xiaoquan Yu, Onsager vortex clusters on a sphere, [Commun. Theor. Phys. 78 015602,(2025)](https://iopscience.iop.org/article/10.1088/1572-9494/add998)
 
 13) Andrew P. C. Underwood, Andrew J. Groszek, Xiaoquan Yu, P. B. Blakie, L. A. Williamson, Berezinskii-Kosterlitz-Thouless transitions in a ferromagnetic superfluid: effects of axial magnetization, [Phys. Rev. A 110, 013311,(2024)]( https://journals.aps.org/pra/pdf/10.1103/PhysRevA.110.013311)
 
