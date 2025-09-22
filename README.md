@@ -32,14 +32,12 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 ## Preprints
 
 1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
-   
 
+2) Jiangnan Biguo, Xiaoquan Yu, Motion of ferrodark solitons in harmonically trapped superfluids: spin corrections and emergent quartic potentials exhibiting symmetry breaking, [arxiv](https://arxiv.org/abs/2504.12980)
    
-3) Jiangnan Biguo, Xiaoquan Yu, Motion of ferrodark solitons in harmonically trapped superfluids: spin corrections and emergent quartic potentials exhibiting symmetry breaking, [arxiv](https://arxiv.org/abs/2504.12980)
-   
-4) Yixiu Bai, Jiangnan Biguo, Xiaoquan Yu, Ferrodark soliton collisions: breather formation, pair reproduction and spin-mass separation, [arxiv](https://www.arxiv.org/abs/2509.04769)
+3) Yixiu Bai, Jiangnan Biguo, Xiaoquan Yu, Ferrodark soliton collisions: breather formation, pair reproduction and spin-mass separation, [arxiv](https://www.arxiv.org/abs/2509.04769)
 
-5) Xiaoquan Yu, Oscillating ring ferrodark solitons with breathing nematic core in a homogeneous spinor superfluid, [arxiv](https://arxiv.org/abs/2509.13874)
+4) Xiaoquan Yu, Oscillating ring ferrodark solitons with breathing nematic core in a homogeneous spinor superfluid, [arxiv](https://arxiv.org/abs/2509.13874)
 
    
 ##  Solitons in Fermi gases
