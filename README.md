@@ -44,7 +44,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Ferrodark solitons in spin-1 ferromagnetic superfluids
 
-5) Jiangnan Biguo, Xiaoquan Yu, Motion of Ferrodark Solitons in Trapped Superfluids: Spin Corrections and Emergent Oscillators, [Phys. Rev. Lett. 135, 223401](https://journals.aps.org/prl/abstract/10.1103/kkw5-ddth)
+5) Jiangnan Biguo, Xiaoquan Yu, Motion of Ferrodark Solitons in Trapped Superfluids: Spin Corrections and Emergent Oscillators, [Phys. Rev. Lett. 135, 223401,(2025)](https://journals.aps.org/prl/abstract/10.1103/kkw5-ddth)
 
 4) Xiaoquan Yu, P. B. Blakie, Absence of breakdown of ferrodark solitons exhibiting snake instability, [Phys. Rev. A (Letter) 110, L061303, (2024)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.L061303)
 
