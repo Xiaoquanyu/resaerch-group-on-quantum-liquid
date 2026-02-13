@@ -33,9 +33,7 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
    
-2) Yixiu Bai, Jiangnan Biguo, Xiaoquan Yu, Ferrodark soliton collisions: breather formation, pair reproduction and spin-mass separation, [arxiv](https://www.arxiv.org/abs/2509.04769)
-
-3) Xiaoquan Yu, Oscillating ring ferrodark solitons with breathing nematic core in a homogeneous spinor superfluid, [arxiv](https://arxiv.org/abs/2509.13874)
+2) Xiaoquan Yu, Oscillating ring ferrodark solitons with breathing nematic core in a homogeneous spinor superfluid, [arxiv](https://arxiv.org/abs/2509.13874)
 
    
 ##  Solitons in Fermi gases
@@ -44,6 +42,8 @@ Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel 
 
 ## Ferrodark solitons in spin-1 ferromagnetic superfluids
 
+6) Yixiu Bai, Jiangnan Biguo, Xiaoquan Yu, Ferrodark soliton collisions: breather formation, pair reproduction and spin-mass separation, [Phys. Rev. A 113, 023313,(2026)](https://journals.aps.org/pra/abstract/10.1103/vkkd-qy61)
+   
 5) Jiangnan Biguo, Xiaoquan Yu, Motion of Ferrodark Solitons in Trapped Superfluids: Spin Corrections and Emergent Oscillators, [Phys. Rev. Lett. 135, 223401,(2025)](https://journals.aps.org/prl/abstract/10.1103/kkw5-ddth)
 
 4) Xiaoquan Yu, P. B. Blakie, Absence of breakdown of ferrodark solitons exhibiting snake instability, [Phys. Rev. A (Letter) 110, L061303, (2024)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.L061303)
