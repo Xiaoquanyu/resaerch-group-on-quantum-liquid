@@ -21,7 +21,7 @@ Master's students：Jiawen Chen (陈嘉文)
 
 ## Alumni
 
-Lei Qiao (乔雷) Postdoc (博强计划 2020.7-2020.12)  -> Postdoc at National University of singapore 
+Lei Qiao (乔雷) Postdoc (博强计划 2020.7-2020.12)  -> Postdoc at National University of singapore -> Associate professor at Beihang University
 
 Yanqi Xiong (熊彦淇) PhD (2020.7-2023.7) -> Lecturer at Hunan institute of science and technology
 
