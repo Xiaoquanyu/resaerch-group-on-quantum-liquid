@@ -12,12 +12,9 @@ I am a professor at Graduate School of China Academy of Engineering Physics (GSC
 
 ## Group members
 
-Postdocs: Dr. Chen Ma (马晨), Dr. Xiaolin Li (李晓霖)
+Postdocs: Dr. Chen Ma (马晨), Dr. Xiaolin Li (李晓霖), Dr. Yixiu Bai (白伊秀)
 
-PhD students： Yixiu Bai (白伊秀), Jiangnan BiGuo (毕郭江南), Rui Han (韩锐)
-
-Master's students：Jiawen Chen (陈嘉文)
-
+PhD students： Rui Han (韩锐)
 
 ## Alumni
 
@@ -25,15 +22,23 @@ Lei Qiao (乔雷) Postdoc (博强计划 2020.7-2020.12)  -> Postdoc at National 
 
 Yanqi Xiong (熊彦淇) PhD (2020.7-2023.7) -> Lecturer at Hunan institute of science and technology
 
+Jiawen Chen (陈嘉文) Master (2020.7-2024.7) -> Phd student at Swinburne University of Technology, Australia 
+
+Jiangnan BiGuo (毕郭江南) PhD (2021.7-2026.7) -> Postdoc at Hainan University 
+
+Dr. Yixiu Bai (白伊秀)  PhD (2022.7-2026.7) ->  Postdoc at Graduate School of China Academy of Engineering Physics 
+
 ## Oppotunities 
 Would you like to do a Master, Ph.D or postdoc at GSCAEP, Beijing ? Please feel free to contact me (email address:  xqyu@gscaep.ac.cn or xiaoquan.yu@otago.ac.nz).  Welcome to join us ! 
 # Publications
 
 ## Preprints
 
-1) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
+1) Ashton S. Bradley, Tyler W. Neely, Xiaoquan Yu, Brian P. Anderson, Turbulence in Quantum Gases: Vortices, Waves, and Cascades, [arxiv](https://arxiv.org/abs/2607.22244)
+
+2) Jun Nian, Xiaoquan Yu, Jinwu Ye, A Non-Unitary Conformal Field Theory Approach to Two-Dimensional Turbulence, [arxiv](https://arxiv.org/abs/2210.06762)
    
-2) Xiaoquan Yu, Oscillating ring ferrodark solitons with breathing nematic core in a homogeneous spinor superfluid, [arxiv](https://arxiv.org/abs/2509.13874)
+3) Xiaoquan Yu, Oscillating ring ferrodark solitons with breathing nematic core in a homogeneous spinor superfluid, [arxiv](https://arxiv.org/abs/2509.13874)
 
    
 ##  Solitons in Fermi gases
