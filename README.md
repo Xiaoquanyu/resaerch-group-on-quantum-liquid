@@ -3,11 +3,10 @@
 ## Research interests
 The main research interests focus on dynamics of topological defects and out of equilibrium processes in quantum fluids driven by topological defects, including  collective dynamics of quanutm vortices, quantum turbulence, and dynamics of magnetic domain walls. Another area of research is statistical mechanics of quantum systems in the presence of disorder, examples are Anderson localization and quantum spin glasses. 
 
-Want to know more ?  Check out these papers !  [Turbulence](https://github.com/Xiaoquanyu/resaerch-group-on-quantum-liquid/blob/master/Lessons%20from%20Hydrodynamic%20Turbulence.pdf);  [Quantum  Turbulence](https://github.com/Xiaoquanyu/resaerch-group-on-quantum-liquid/blob/master/Introduction%20to%20quantum%20turbulence.pdf); [Spin Glasses](https://github.com/Xiaoquanyu/resaerch-group-on-quantum-liquid/blob/master/Spin%20Glasses-%20Old%20and%20New%20Complexity.pdf)
 
 ## Short CV
 
-I am a professor at Graduate School of China Academy of Engineering Physics (GSCAEP). I obtained my PhD in theoretical physics in 2012 from [SISSA](https://www.statphys.sissa.it/wordpress/). From 2013-2015 I conducted postdoctoral research at New Zealand institute for advanced study. I started to work at the physics department of the University of Otago as a research fellow in 2015, where my research focus on quantum fluids, vortex dynamcis and turbulence. In 2019 I joined [GSCAEP](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2) and got promoted to Full Professor (with Tenure) in 2026. 
+I am a professor at Graduate School of China Academy of Engineering Physics (GSCAEP). I obtained my PhD in theoretical physics in 2012 from [SISSA](https://www.statphys.sissa.it/index.html). From 2013-2015 I conducted postdoctoral research at New Zealand institute for advanced study. I started to work at the physics department of the University of Otago as a research fellow in 2015, where my research focus on quantum fluids, vortex dynamcis and turbulence. In 2019 I joined [GSCAEP](http://gscaep.ac.cn/subPage/kxyj.html?index=0#threekytd=2) and got promoted to Full Professor (with Tenure) in 2026. 
 
 
 ## Group members
